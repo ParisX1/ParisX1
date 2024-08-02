@@ -3,10 +3,10 @@
 👩🏻‍🎓 Studying Computer Science at the Georgia Institute of Technology  
 🖥️ Currently working on Unix systems programming   
 💾 Previously studied Computer Science at Monash University, Australia  
-📜 Prior Teaching Associate for Introduction to Algorithms  
-🤖 Dabbled in game development via the Unity Game Engine  
+📜 Teaching Associate for Introduction to Algorithms  
+🤖 Dabble in game development via the Unity Game Engine  
 
-## Tech Stack
+## Technologies & Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
