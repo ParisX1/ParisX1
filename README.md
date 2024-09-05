@@ -4,7 +4,6 @@
 🖥️ Currently working on Unix systems programming   
 💾 Previously studied Computer Science at Monash University, Australia  
 📜 Teaching Associate for Introduction to Algorithms  
-🤖 Dabble in game development via the Unity Game Engine  
 
 ## Technologies & Tools
 
