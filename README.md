@@ -1,7 +1,7 @@
 ## Hi there I'm Tom.
 
 👩🏻‍🎓 Studying Computer Science at the Georgia Institute of Technology  
-🖥️ Currently working on Unix systems programming   
+🖥️ Currently working on Unix systems programming and an AI sentiment analyser  
 💾 Previously studied Computer Science at Monash University, Australia  
 📜 Teaching Associate for Introduction to Algorithms  
 
